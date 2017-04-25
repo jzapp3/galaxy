@@ -1,0 +1,183 @@
+html, body
+    {                                                                                                
+      height:100%;
+      margin:0;
+    }
+    
+#nav 
+    {
+        
+        height: 5%;
+        width: 100%;
+                                       
+    }
+    
+#header
+    {
+        
+        height: 10%;
+        width: 100%;
+        font-family: 'Delius Swash Caps', cursive;
+        text-shadow: 3px 1px #4d76ff;
+        text-align: center;
+        background-color: #99b1ff;
+        
+        box-sizing: border-box;
+        
+        
+    }
+
+#picbox
+    {
+        height: 30%;
+        background-color: #002db3;
+        width: 100%;
+        border: 1px solid black;
+    
+    
+        
+
+        
+        
+    }                                                    
+    
+.pic
+    {
+        width: 50%;
+        height: 100%;
+        float:left;
+    
+        
+
+
+
+
+
+    }
+    
+.p1, .p2
+    {
+        height: 80%;
+        width: 90%;
+        margin: 4% 26px;
+    
+    } 
+    
+
+    
+.p1,.p2,.outset 
+    {
+        border-style: outset;
+        border-radius: 10px;
+        border-color: #008ae6;
+        border-width: 2px;
+        
+    }
+    
+
+    
+
+    
+
+   
+
+
+#text
+    {   
+        background-color: #99b3ff;
+        height: 20%;
+        font-family: 'Delius Swash Caps', cursive;
+        text-shadow: 2px 1px #4d76ff;
+        text-align: justify;
+        padding: 2px;
+        box-sizing: border-box;
+    }
+
+
+
+
+#picbox2
+    {
+        
+        height: 20%;
+        width: 100%;
+        background-color: #002db3;
+    }
+
+.pic2
+     {
+        width: 25%;
+        box-sizing: border-box;
+        /*box-sizing: border-box;*/
+        height: 100%;
+        float:left;
+    /*    border: 1px solid black; */
+    }
+
+
+.p3,.p4,.p5,.p6
+    {
+        height: 80%;
+        width: 90%;
+        margin: 6px 13px;
+    }
+
+.p3,.p4,.p5,.p6,.outset 
+    {
+        border-style: outset;
+        border-radius: 10px;  
+        border-color: #008ae6;
+        border-width: 2px;
+        
+    }    
+    
+#footer
+    {
+        height: 10%;
+        width: 100%;
+        font-family: 'Delius Swash Caps', cursive;
+        text-shadow: 3px 1px #4d76ff;
+        text-align: center;
+        background-color: #00004d;
+        color: white;
+        padding-top: 3px;
+        box-sizing: border-box;
+    }
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #002080;
+    }
+
+li {
+    float: left;
+}
+
+li a {
+    display: inline-block;
+    color: #99b3ff;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    }
+
+li a:hover 
+    {
+    background-color: #1a53ff;
+    }
+
+span {
+    float: left;
+    width: 0.7em;
+    font-size: 400%;
+    font-family: algerian, courier;
+    line-height: 80%;
+    }
+
+
+
+
+        

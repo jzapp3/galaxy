@@ -1,0 +1,114 @@
+html, body
+    {                                                                                                
+      height:100%;
+      margin:0;
+    }
+    
+#nav 
+    {
+        background-color: blue;
+        height: 10%;
+        
+    }
+ 
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #002080;
+    }
+
+li {
+    float: left;
+}
+
+li a {
+    display: inline-block;
+    color: #99b3ff;1
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    }
+
+li a:hover 
+    {
+    background-color: #1a53ff;
+    }
+
+span {
+    float: left;
+    width: 0.7em;
+    font-size: 400%;
+    font-family: algerian, courier;
+    line-height: 80%;
+    }
+    
+#header
+    {
+        
+        height: 10%;
+        font-family: 'Delius Swash Caps', cursive;
+        text-shadow: 4px 1px #4d76ff;
+        text-align: center;
+        clear: both;
+        background-color: #99b1ff;
+    }
+#picbox
+    {
+        height: 30%;
+        width: 100%;
+        background-color: #002db3;
+    }
+    
+.pic
+    {
+        width: 33.3%;
+        
+        box-sizing: border-box;
+        height:100%;
+        float:left;
+    }   
+
+.p1,.p2,.p3
+    {
+        height: 90%;
+        width: 80%;
+        margin: 8px 35px;
+    }
+    
+
+
+#box2
+    {
+        height: 40%;
+        width: 100%;
+        font-family: 'Delius Swash Caps', cursive;
+        text-shadow: 1px 2px #4d76ff;
+        Text-align: justify;
+        /*clear: both; */
+        background-color: #99b1ff;
+        text-indent: 50px;
+        padding: 10px;
+    }
+        
+
+#box3
+    {
+        height: 10%;
+        font-family: 'Delius Swash Caps', cursive;
+        text-shadow: 1px 2px #4d76ff;
+        text-align: center;
+        background-color: #00004d;
+        color: white;
+        padding-top: 1px;
+        box-sizing: border-box;
+        
+    }
+    
+        
+    
+    
+    
+    
+    
